@@ -11,6 +11,7 @@ namespace Bio
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Willem 2");
+            Console.WriteLine("Groeten van Marcel");
             Console.ReadKey();
         }
     }
